@@ -153,7 +153,9 @@ The project generates:
 Stock-Price-Prediction/
 │
 ├── Stock_Prediction.py
+├── Predicted_Stock_Prices.csv
 ├── graph.png
+├── LICENSE
 └── README.md
 ```
 
